@@ -1,3 +1,3 @@
 # NLP-BERT
 
-A simple sentiment analysis on the IMDB dataset to get started with BERT.
+A sentiment analysis on the IMDB dataset to get insights into BERT.
